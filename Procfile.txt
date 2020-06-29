@@ -1,1 +1,1 @@
-web: bokeh serve — port=$PORT — allow-websocket-origin=covidforecasting.herokuapp.com — address=0.0.0.0 — use-xheaders CF.py
+web: bokeh serve — port=$PORT — allow-websocket-origin=covidforecasting01.herokuapp.com — address=0.0.0.0 — use-xheaders CF.py
